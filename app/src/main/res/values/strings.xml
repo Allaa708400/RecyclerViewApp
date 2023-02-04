@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerViewApp</string>
+    <string name="details_et_model_hint">Model</string>
+    <string name="details_et_color_hint">Color</string>
+    <string name="details_et_density_hint">Density Per Letter</string>
+    <string name="details_et_description_hint">Description</string>
+
+</resources>
